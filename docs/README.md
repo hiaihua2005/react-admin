@@ -35,17 +35,4 @@ react-admin是基于基于[React16.x](https://reactjs.org)、[Ant Design4.x](htt
 ```
 ## 预览
 
-部分页面截图，完整项目预览地址[戳这里](http://shubin.wang)
-<div style="background: #efefef;padding: 0 10px;">
-
-![登录](imgs/login.jpg)
-![首页](imgs/home.jpg)
-![用户](imgs/users.jpg)
-![菜单&权限](imgs/menu.jpg)
-![角色管理](imgs/role.jpg)
-![快速生成](imgs/gen_quick.png)
-![单独生成](imgs/gen_single.png)
-![页面不存在](imgs/404.jpg)
-
-</div>
 

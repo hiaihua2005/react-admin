@@ -1,5 +1,5 @@
 # 快速开始
-从[github](https://github.com/sxfad/react-admin)上clone代码，通过下面介绍的命令，进行开发或者生产构建。
+从[github](https://github.com/hiaihua/react-admin)上clone代码，通过下面介绍的命令，进行开发或者生产构建。
 
 ## 环境
 - [yarn](https://yarnpkg.com) v1.13.0
@@ -7,7 +7,7 @@
 
 ## 下载
 ```bash
-$ git clone https://github.com/sxfad/react-admin.git
+$ git clone https://github.com/hiaihua/react-admin.git
 ```
 
 ## 安装依赖
@@ -74,6 +74,11 @@ $ BASE_NAME=/react-admin yarn build
 http://xxx.com/react-admin
 ```
 
-注：windows环境下，使用git bash 要对/进行转义： `BASE_NAME=//react-admin yarn build`
+注：
+本项目参照项目并更新：
+```
+https://github.com/sxfad/react-admin.git
+```
+windows环境下，使用git bash 要对/进行转义： `BASE_NAME=//react-admin yarn build`
 
 
